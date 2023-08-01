@@ -1,0 +1,16 @@
+body {
+  background-color: #6A1979;
+}
+
+h1{
+  color: lightgray
+}
+
+p{
+  font-family: fangsong;
+}
+
+#paple{
+  width: 320px; 
+  height: 350px;
+}
